@@ -68,6 +68,4 @@ The goal was to use data to identify the true drivers of waste and profitability
 ## Project Workflow
 Python → PostgreSQL → Power BI
 
----
 
-## Repository Structure
